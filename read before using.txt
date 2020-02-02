@@ -1,0 +1,8 @@
+
+- Create a database call it as "news" and upload the "new" table .
+
+ Enjoy :)
+
+(Mini project for practicing PHP POO & JS & AJAX )
+
+Created by Mohamed Fadel Moumeni :)
